@@ -1,2 +1,2 @@
 # algorithm
-Translate the Introduction to Algorithm
+Introduction to Algorithm Notes
